@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-practice/static/css/main.5e41044a.css",
+    "main.js": "/git-practice/static/js/main.2fa282c4.js",
+    "index.html": "/git-practice/index.html",
+    "main.5e41044a.css.map": "/git-practice/static/css/main.5e41044a.css.map",
+    "main.2fa282c4.js.map": "/git-practice/static/js/main.2fa282c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e41044a.css",
+    "static/js/main.2fa282c4.js"
+  ]
+}
